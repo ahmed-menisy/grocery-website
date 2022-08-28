@@ -375,7 +375,7 @@ header .landing-content .content button {
 /* ------------------------ End LATEST PRODUCTS ------------------------ */
 /* ------------------------ Start Deal Of The Day ------------------------ */
 .deal {
-   background: url("../images/deal-bg.jpg") no-repeat center / cover;
+   background: #E0FFC0;
 }
 .deal .deal-conten {
    max-width: 30rem;
